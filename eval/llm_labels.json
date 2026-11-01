@@ -1,0 +1,11 @@
+{"provenance": {"model": "claude-sonnet-5-5", "mode": "zero-shot, blind to labels and column names", "prompt_file": "eval/llm_prompt.md", "batch_file": "eval/llm_batch.json"}, "labels": {
+"c0005":"event_timestamp","c0066":"free_text","c0068":"city","c0086":"free_text","c0137":"national_id","c0172":"order_id","c0193":"free_text","c0227":"free_text","c0266":"free_text","c0270":"email",
+"c0272":"free_text","c0298":"free_text","c0316":"free_text","c0333":"email","c0376":"sku","c0433":"phone","c0458":"email","c0462":"event_timestamp","c0504":"status","c0509":"free_text",
+"c0518":"person_name","c0528":"person_name","c0550":"free_text","c0559":"card_number","c0603":"free_text","c0607":"free_text_pii","c0609":"free_text","c0670":"free_text","c0675":"birth_date","c0680":"calendar_date",
+"c0683":"free_text","c0686":"free_text","c0701":"free_text","c0729":"free_text","c0737":"hostname","c0754":"free_text","c0773":"calendar_date","c0798":"free_text","c0838":"person_name","c0846":"free_text",
+"c0862":"free_text","c0879":"free_text","c0916":"free_text","c0934":"free_text","c0962":"phone","c0971":"hostname","c0979":"national_id","c1028":"status","c1030":"free_text","c1047":"free_text_pii",
+"c1061":"free_text","c1068":"free_text","c1079":"free_text","c1120":"free_text","c1148":"free_text","c1187":"calendar_date","c1192":"free_text","c1194":"amount","c1209":"free_text_pii","c1214":"uuid",
+"c1226":"free_text","c1258":"event_timestamp","c1275":"free_text","c1290":"free_text","c1299":"birth_date","c1305":"free_text","c1309":"hostname","c1350":"event_timestamp","c1351":"event_timestamp","c1358":"card_number",
+"c1359":"free_text","c1370":"uuid","c1393":"free_text","c1413":"free_text","c1431":"email","c1450":"birth_date","c1456":"person_name","c1500":"free_text","c1527":"phone","c1548":"free_text_pii",
+"c1568":"free_text","c1573":"free_text","c1575":"free_text_pii","c1602":"free_text","c1604":"status","c1609":"calendar_date","c1613":"calendar_date","c1615":"free_text","c1630":"free_text","c1650":"free_text",
+"c1717":"ip_address","c1772":"person_name","c1773":"amount","c1774":"ip_address","c1777":"free_text","c1794":"free_text","c1836":"card_number","c1843":"free_text","c1850":"order_id","c1870":"free_text_pii"}}
